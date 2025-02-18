@@ -29,11 +29,11 @@ Menus:
       title: Publications
       url: https://scholar.google.com/citations?user=c1ee-V4AAAAJ&hl=fr&oi=ao
       weight: 1
-    - identifier: cv
-      name: CV
-      title: CV
-      url: /cv/Caron_CV.pdf
-      weight: 2
+    #- identifier: cv
+    #  name: CV
+    #  title: CV
+    #  url: /cv
+    #  weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -162,7 +162,7 @@ params:
 
       I recently completed my PhD at McGill University under the supervision of [Dr. Laura Pollock](https://qbiodiversity.org/). My research focused on trait-based modeling of species interactions and food webs (see [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13966) and [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13807)) and the seasonal movements of birds (in revision).
 
-      Over the years, I’ve had the opportunity to collaborate with Éco-corridors laurentiens and the federal government to design and implement tools that support data-driven decision-making. To know more about my research and previous experiences, please feel free to explore my [CV](cv/Caron_cv.pdf) and [publications](https://scholar.google.com/citations?user=c1ee-V4AAAAJ&hl=fr&oi=ao).
+      Over the years, I’ve had the opportunity to collaborate with Éco-corridors laurentiens and the federal government to design and implement tools that support data-driven decision-making. To know more about my research and previous experiences, please feel free to explore my [CV](/cv/Caron_CV.pdf) and [publications](https://scholar.google.com/citations?user=c1ee-V4AAAAJ&hl=fr&oi=ao).
 
   # Experience
   experience:
