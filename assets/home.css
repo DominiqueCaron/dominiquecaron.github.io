@@ -1,0 +1,4 @@
+body *::selection {
+    color: var(--text-color) !important;
+    background-color: var(--text-secondary-color) !important;
+}
